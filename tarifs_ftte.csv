@@ -1,0 +1,93 @@
+Operateur,Reference,Produit,Engagement,Unit,TypeProduit,Frequence,TermeFacturation,RecurentCharge,NonRecurentCharge
+ORANGE,DS-IC-FTTE-10M-ORG-36,Lien FTTE 10 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,254.00 ,0.00 
+ORANGE,DS-IC-FTTE-10M-ORG-24,Lien FTTE 10 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,254.00 ,280.00 
+ORANGE,DS-IC-FTTE-10M-ORG-12,Lien FTTE 10 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,254.00 ,560.00 
+ORANGE,DS-IC-FTTE-20M-ORG-36,Lien FTTE 20 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,277.00 ,0.00 
+ORANGE,DS-IC-FTTE-20M-ORG-24,Lien FTTE 20 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,277.00 ,280.00 
+ORANGE,DS-IC-FTTE-20M-ORG-12,Lien FTTE 20 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,277.00 ,560.00 
+ORANGE,DS-IC-FTTE-30M-ORG-36,Lien FTTE 30 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,300.00 ,0.00 
+ORANGE,DS-IC-FTTE-30M-ORG-24,Lien FTTE 30 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,300.00 ,280.00 
+ORANGE,DS-IC-FTTE-30M-ORG-12,Lien FTTE 30 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,300.00 ,560.00 
+ORANGE,DS-IC-FTTE-40M-ORG-36,Lien FTTE 40 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,317.00 ,0.00 
+ORANGE,DS-IC-FTTE-40M-ORG-24,Lien FTTE 40 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,317.00 ,280.00 
+ORANGE,DS-IC-FTTE-40M-ORG-12,Lien FTTE 40 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,317.00 ,560.00 
+ORANGE,DS-IC-FTTE-50M-ORG-36,Lien FTTE 50 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,334.00 ,0.00 
+ORANGE,DS-IC-FTTE-50M-ORG-24,Lien FTTE 50 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,334.00 ,280.00 
+ORANGE,DS-IC-FTTE-50M-ORG-12,Lien FTTE 50 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,334.00 ,560.00 
+ORANGE,DS-IC-FTTE-100M-ORG-36,Lien FTTE 100 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,380.00 ,0.00 
+ORANGE,DS-IC-FTTE-100M-ORG-24,Lien FTTE 100 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,380.00 ,280.00 
+ORANGE,DS-IC-FTTE-100M-ORG-12,Lien FTTE 100 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,380.00 ,560.00 
+ORANGE,DS-IC-FTTE-200M-ORG-36,Lien FTTE 200 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,449.00 ,0.00 
+ORANGE,DS-IC-FTTE-200M-ORG-24,Lien FTTE 200 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,449.00 ,280.00 
+ORANGE,DS-IC-FTTE-200M-ORG-12,Lien FTTE 200 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,449.00 ,560.00 
+ORANGE,DS-IC-FTTE-300M-ORG-36,Lien FTTE 300 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,518.00 ,0.00 
+ORANGE,DS-IC-FTTE-300M-ORG-24,Lien FTTE 300 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,518.00 ,280.00 
+ORANGE,DS-IC-FTTE-300M-ORG-12,Lien FTTE 300 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,518.00 ,560.00 
+ORANGE,DS-IC-FTTE-500M-ORG-36,Lien FTTE 500 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,582.00 ,0.00 
+ORANGE,DS-IC-FTTE-500M-ORG-24,Lien FTTE 500 Mb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,582.00 ,280.00 
+ORANGE,DS-IC-FTTE-500M-ORG-12,Lien FTTE 500 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,582.00 ,560.00 
+ORANGE,DS-IC-FTTE-1G-ORG-36,Lien FTTE 1 Gb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,685.00 ,0.00 
+ORANGE,DS-IC-FTTE-1G-ORG-24,Lien FTTE 1 Gb/s ORANGE,Engagement 24 mois,Lien,Rcurrent,1, choir,685.00 ,280.00 
+ORANGE,DS-IC-FTTE-1G-ORG-12,Lien FTTE 1 Gb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,685.00 ,560.00 
+ORANGE,DS-IC-FTTE-2M-ORG-36,Lien FTTE 2 Mb/s ORANGE,Engagement 36 mois,Lien,Rcurrent,1, choir,219.00 ,0.00 
+ORANGE,DS-IC-FTTE-2M-ORG-24,Lien FTTE 2 Mb/s ORANGE,Engagement 24 mois,Lien,NRC,, choir,219.00 ,280.00 
+ORANGE,DS-IC-FTTE-2M-ORG-12,Lien FTTE 2 Mb/s ORANGE,Engagement 12 mois,Lien,Rcurrent,1, choir,219.00 ,560.00 
+BOUYGUES TELECOM,DS-IC-FTTE-10M-BOT-36,Lien FTTE 10 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,183.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-10M-BOT-24,Lien FTTE 10 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,183.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-10M-BOT-12,Lien FTTE 10 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,183.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-20M-BOT-36,Lien FTTE 20 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,195.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-20M-BOT-24,Lien FTTE 20 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,195.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-20M-BOT-12,Lien FTTE 20 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,195.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-50M-BOT-36,Lien FTTE 50 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,212.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-50M-BOT-24,Lien FTTE 50 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,212.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-50M-BOT-12,Lien FTTE 50 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,NRC,, choir,212.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-100M-BOT-36,Lien FTTE 100 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,258.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-100M-BOT-24,Lien FTTE 100 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,258.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-100M-BOT-12,Lien FTTE 100 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,258.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-200M-BOT-36,Lien FTTE 200 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,315.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-200M-BOT-24,Lien FTTE 200 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,315.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-200M-BOT-12,Lien FTTE 200 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,315.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-300M-BOT-36,Lien FTTE 300 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,384.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-300M-BOT-24,Lien FTTE 300 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,384.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-300M-BOT-12,Lien FTTE 300 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,384.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-500M-BOT-36,Lien FTTE 500 Mb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,413.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-500M-BOT-24,Lien FTTE 500 Mb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,413.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-500M-BOT-12,Lien FTTE 500 Mb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,413.00 ,844.00 
+BOUYGUES TELECOM,DS-IC-FTTE-1G-BOT-36,Lien FTTE 1 Gb/s Bouygues Telecom,Engagement 36 mois,Lien,Rcurrent,1, choir,426.00 ,0.00 
+BOUYGUES TELECOM,DS-IC-FTTE-1G-BOT-24,Lien FTTE 1 Gb/s Bouygues Telecom,Engagement 24 mois,Lien,NRC,, choir,426.00 ,422.00 
+BOUYGUES TELECOM,DS-IC-FTTE-1G-BOT-12,Lien FTTE 1 Gb/s Bouygues Telecom,Engagement 12 mois,Lien,Rcurrent,1, choir,426.00 ,844.00 
+AXIONE,DS-IC-FTTE-CIT-100+M-AXN-36,Lien FTTE 100 Mb/s + option plus 1 Gb/s Axione ZTD,Engagement 36 mois,Lien,Rcurrent,1, choir,189.00 ,0.00 
+AXIONE,DS-IC-FTTE-CIT-100+M-AXN-24,Lien FTTE 100 Mb/s + option plus 1 Gb/s Axione ZTD,Engagement 24 mois,Lien,NRC,, choir,189.00 ,192.00 
+AXIONE,DS-IC-FTTE-CIT-100+M-AXN-12,Lien FTTE 100 Mb/s + option plus 1 Gb/s Axione ZTD,Engagement 12 mois,Lien,Rcurrent,1, choir,189.00 ,384.00 
+AXIONE,DS-IC-FTTE-CIT-300+M-AXN-36,Lien FTTE 300 Mb/s + option plus 1 Gb/s Axione ZTD,Engagement 36 mois,Lien,Rcurrent,1, choir,350.00 ,0.00 
+AXIONE,DS-IC-FTTE-CIT-300+M-AXN-24,Lien FTTE 300 Mb/s + option plus 1 Gb/s Axione ZTD,Engagement 24 mois,Lien,NRC,, choir,350.00 ,192.00 
+AXIONE,DS-IC-FTTE-CIT-300+M-AXN-12,Lien FTTE 300 Mb/s + option plus 1 Gb/s Axione ZTD,Engagement 12 mois,Lien,Rcurrent,1, choir,350.00 ,384.00 
+AXIONE,DS-IC-FTTE-CIT-1G-AXN-36,Lien FTTE 1 Gb/s Axione ZTD,Engagement 36 mois,Lien,Rcurrent,1, choir,568.00 ,0.00 
+AXIONE,DS-IC-FTTE-CIT-1G-AXN-24,Lien FTTE 1 Gb/s Axione ZTD,Engagement 24 mois,Lien,NRC,, choir,568.00 ,192.00 
+AXIONE,DS-IC-FTTE-CIT-1G-AXN-12,Lien FTTE 1 Gb/s Axione ZTD,Engagement 12 mois,Lien,Rcurrent,1, choir,568.00 ,384.00 
+COVAGE,DS-IC-FTTE-MIN-2+M-CVG-36,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s MIN THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,98.00 ,0.00 
+COVAGE,DS-IC-FTTE-MIN-2+M-CVG-24,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s MIN THD Covage,Engagement 24 mois,Lien,Rcurrent,1, choir,98.00 ,138.00 
+COVAGE,DS-IC-FTTE-MIN-10+M-CVG-36,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s MIN THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,242.00 ,0.00 
+COVAGE,DS-IC-FTTE-MIN-10+M-CVG-24,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s MIN THD Covage,Engagement 24 mois,Lien,Rcurrent,1, choir,242.00 ,138.00 
+COVAGE,DS-IC-FTTE-ZA-2+M-CVG-36,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s ZA THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,98.00 ,0.00 
+COVAGE,DS-IC-FTTE-ZA-2+M-CVG-24,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s ZA THD Covage,Engagement 24 mois,Lien,Rcurrent,1, choir,98.00 ,138.00 
+COVAGE,DS-IC-FTTE-ZA-10+M-CVG-36,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s ZA THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,242.00 ,0.00 
+COVAGE,DS-IC-FTTE-ZA-10+M-CVG-24,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s ZA THD Covage,Engagement 24 mois,Lien,Rcurrent,1, choir,242.00 ,138.00 
+COVAGE,DS-IC-FTTE-Z2-2+M-CVG-36,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s Z2 THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,135.00 ,0.00 
+COVAGE,DS-IC-FTTE-Z2-2+M-CVG-24,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s Z2 THD Covage,Engagement 24 mois,Lien,NRC,, choir,135.00 ,575.00 
+COVAGE,DS-IC-FTTE-Z2-10+M-CVG-36,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s Z2 THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,278.00 ,0.00 
+COVAGE,DS-IC-FTTE-Z2-10+M-CVG-24,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s Z2 THD Covage,Engagement 24 mois,Lien,NRC,, choir,278.00 ,575.00 
+COVAGE,DS-IC-FTTE-Z3-2+M-CVG-36,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s Z3 THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,211.00 ,0.00 
+COVAGE,DS-IC-FTTE-Z3-2+M-CVG-24,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s Z3 THD Covage,Engagement 24 mois,Lien,NRC,, choir,211.00 ,1495.00 
+COVAGE,DS-IC-FTTE-Z3-10+M-CVG-36,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s Z3 THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,326.00 ,0.00 
+COVAGE,DS-IC-FTTE-Z3-10+M-CVG-24,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s Z3 THD Covage,Engagement 24 mois,Lien,NRC,, choir,326.00 ,1150.00 
+COVAGE,DS-IC-FTTE-Z4-2+M-CVG-36,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s Z4 THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,262.00 ,0.00 
+COVAGE,DS-IC-FTTE-Z4-2+M-CVG-24,Lien FTTE BPEA 2 Mb/s burst 100 Mb/s Z4 THD Covage,Engagement 24 mois,Lien,NRC,, choir,262.00 ,2109.00 
+COVAGE,DS-IC-FTTE-Z4-10+M-CVG-36,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s Z4 THD Covage,Engagement 36 mois,Lien,Rcurrent,1, choir,374.00 ,0.00 
+COVAGE,DS-IC-FTTE-Z4-10+M-CVG-24,Lien FTTE BPEA 10 Mb/s burst 100 Mb/s Z4 THD Covage,Engagement 24 mois,Lien,NRC,, choir,374.00 ,1725.00 
+LIAIN,DS-IC-FTTE-10M400-LIAIN-36,Lien FTTE 10 Mb/s garanti + Burst 400 Mb/s LIAIN,Engagement 36 mois,Lien,Rcurrent,1, choir,150.00 ,0.00 
+LIAIN,DS-IC-FTTE-100M400-LIAIN-36,Lien FTTE 100 Mb/s garanti LIAIN + Burst 400 Mb/s LIAIN,Engagement 36 mois,Lien,Rcurrent,1, choir,332.00 ,0.00 
+LIAIN,DS-IC-FTTE-1G-LIAIN-36,Lien FTTE 1 Gb/s garanti LIAIN,Engagement 36 mois,Lien,Rcurrent,1, choir,726.00 ,0.00 
+CONNEXY,DS-IC-FTTE-Z0-5M-CNX-36,Lien FTTE 5 Mb/s burst 100 Mb/s Z0 Connexy,Engagement 36 mois,Lien,Rcurrent,1, choir,97.00 ,0.00 
+CONNEXY,DS-IC-FTTE-Z0-5M-CNX-24,Lien FTTE 5 Mb/s burst 100 Mb/s Z0 Connexy,Engagement 24 mois,Lien,NRC,, choir,97.00 ,480.00 
+CONNEXY,DS-IC-FTTE-Z0-5M-CNX-12,Lien FTTE 5 Mb/s burst 100 Mb/s Z0 Connexy,Engagement 12 mois,Lien,Rcurrent,1, choir,97.00 ,959.00
